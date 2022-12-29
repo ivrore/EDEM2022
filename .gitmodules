@@ -1,0 +1,3 @@
+[submodule "Nifi/edem-mda-data-ingestion"]
+	path = Nifi/edem-mda-data-ingestion
+	url = https://github.com/ivrore/EDEM2022/Nifi

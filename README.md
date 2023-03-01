@@ -1,4 +1,6 @@
 # Master Data Analytics EDEM
+<img src="https://avfcv.com/wp-content/uploads/2020/11/edem-2048x1034.png" width="35%" height="5%">
+
 A continuación, se pueden encontrar los contenidos tratados en el máster, organizados en carpetas dentro de este repositorio según al módulo que pertenecen:
 |Modulo|Descripción|
 |:-----|:-----------|
